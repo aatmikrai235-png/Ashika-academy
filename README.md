@@ -1,4 +1,3 @@
-[service_website (1).html](https://github.com/user-attachments/files/23899882/service_website.1.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
